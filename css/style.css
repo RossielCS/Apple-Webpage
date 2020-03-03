@@ -1,0 +1,55 @@
+*,
+*:before,
+*:after { box-sizing: border-box; }
+
+html,
+body {
+  min-width: 1240px;
+  height: 100%;
+}
+
+body {
+  max-height: 1472px;
+  min-height: 830px;
+}
+
+.navbar {
+  width: 980px;
+  height: 36px;
+}
+
+.main-container,
+.products-and-services,
+.contact-and-policy {
+  max-width: 1240px;
+  margin: auto;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr) 200px;
+  height: 645px;
+  background-image: url("/images/article-background2.jpg");
+  background-repeat: no-repeat;
+}
+
+.main-container div {
+  grid-column: 1/5;
+  display: inline-block;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+}
+
+.products-and-services {
+  height: 200px;
+}
+
+.products-and-services img {
+  max-width: 307px;
+}
+
+.contact-and-policy {
+  height: 90px;
+}
