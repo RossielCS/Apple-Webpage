@@ -44,6 +44,7 @@ body {
 
 /* NAVBAR */
 
+/* ARTICLE */
 .container,
 .products-and-services,
 .contact-and-policy {
@@ -52,36 +53,37 @@ body {
 }
 
 .container {
-  max-height: 645px;
+  max-height: 842px;
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(3, 215px) 200px;
-  background-image: url("/images/article-background2.jpg");
-  background-repeat: no-repeat;
+  grid-template-columns: minmax(1204px, 1440px);
+  grid-template-rows: 642px 200px;
+  /*background-image: url("/images/article-background2.jpg");
+  background-repeat: no-repeat;*/
 }
 
 .titles {
-  grid-column: 2/5;
-  grid-row: 2/3;
-  margin: auto;
-  padding: 7px;
+  grid-row: 1/2;
+  background-color: cadetblue;
 }
 
 .products-and-services {
-  grid-row: 4/5;
-  grid-column: 1/5;
-  background-color: brown;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
 }
 
-.products-and-services div {
-  max-width: 1440px;
-  min-width: 1240px;
-  height: 210px;
+.products-and-services a {
+  overflow: hidden;
 }
 
-.products-and-services img {
+.product-img{
+  position: relative;
+  left: 50% ;
+  transform: translateX(-50%);
+
 }
+
+/* ARTICLE */
 
 /* FOOTER */
 .contact-and-policy {
