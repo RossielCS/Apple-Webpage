@@ -1,17 +1,22 @@
 # Apple-Webpage
- A clone of an old Apple website
-One paragraph statement about the project.
+This repository is about copy the appearance of an old Apple website https://web.archive.org/web/20140301004610/http://www.apple.com/
+
+The purpose of this project is to apply the learned topics about CSS3 basics, box model, floats, positioning, flexbox, grid, backgrounds and, gradients.
 
 
 Screenshot
 
 
-Additional description about the project and its features.
 
+
+Additional description about the project and its features.
 Built With
-Major languages,
-frameworks,
-technologies used
+
+    HTML,
+    CSS,
+    Git,
+    GitHub,
+    Visual Studio Code.
 
 
 Live Demo
@@ -19,29 +24,32 @@ Live Demo
 https://raw.githack.com/RossielCS/Apple-Webpage/apple-index-webpage/index.html
 
 
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
-
-To get a local copy up and running follow these simple example steps.
-
 Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
+
+Before you continue, make you that you have installed:
+
+* An Integrated Development Environment
+* Chrome or Firefox. Internet Explorer is not supported.
 
 
-Authors
-👤 Author1
+Author
 
-Github: @githubhandle
-Linkedin: linkedin
+    Github: @RossielCS
+    Linkedin: https://www.linkedin.com/in/rossiel-carranza-1666b11a1/
 
 
 🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
+If you want to contribute to HTML-Form, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: git checkout -b <branch_name>.
+3. Make your changes and commit them: git commit -m '<commit_message>'
+4. Push to the original branch: git push origin <project_name>/<location>
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on creating a pull request.
 Feel free to check the issues page.
 
 
