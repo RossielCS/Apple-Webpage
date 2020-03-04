@@ -2,8 +2,6 @@
 *:before,
 *:after { box-sizing: border-box; }
 
-
-
 body {
   min-width: 1240px;
   max-height: 1200px;
@@ -25,27 +23,29 @@ body {
 .navbar ul {
   list-style-type: none;
   overflow: hidden;
-  background-image: linear-gradient(#747474, #5e5e5e 50%, #6c6c6c 50%, #8f8f8f);
   border-radius: 4px;
+  background-image: linear-gradient(#747474, #5e5e5e 50%, #6c6c6c 50%, #8f8f8f);
+  border-top: 0.1px solid #616161;
+  border-bottom: 0.1px solid #616161;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
 }
 
 .navbar li {
   float: left;
-  border-right: 0.1px solid #474747;
+  border-right: 0.1px solid #616161;
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px 0;
 }
 
-.navbar li:hover {
-  background-color: rgba(0, 0, 0, 0.3);
-}
+.nav-li-hover:hover { background-color: rgba(0, 0, 0, 0.3); }
 
 .navbar input[type=text] {
   width: 100px;
-  height: 23px;
+  height: 22px;
   margin: 6px 10px;
   border: none;
-  border-radius: 12.5px;
-  background-image: linear-gradient(#747474, #5e5e5e 50%, #6c6c6c 50%, #8f8f8f);
+  border-radius: 12px;
+  box-shadow: inset 0 2px 1px 0 rgba(0, 0, 0, 0.6);
+  background-image: linear-gradient(rgba(116, 116, 116, 0.95), rgba(94, 94, 94, 0.95) 50%, rgba(108, 108, 108, 0.95) 50%, rgba(143, 143, 143, 0.85));
 }
 
 .search-container {
@@ -55,9 +55,11 @@ body {
 
 .search-container i {
   position: absolute;
-  top: 25%;
-  left: 705px;
-  font-size: 18px;
+  top: 31%;
+  left: 707px;
+  font-size: 17px;
+  color: white;
+  text-shadow: 0 1px rgb(65, 65, 65);
 }
 
 .nav-links {
@@ -73,9 +75,7 @@ body {
   font-weight: 400;
 }
 
-#logo {
-  padding: 3px 27px;
-}
+#logo { padding: 3px 27px; }
 
 /* NAVBAR */
 
@@ -104,9 +104,7 @@ body {
   text-align: center;
 }
 
-.titles-box {
-  margin-top: 225px;
-}
+.titles-box { margin-top: 225px; }
 
 .products-and-services {
   display: grid;
@@ -114,9 +112,7 @@ body {
   grid-gap: 2px;
 }
 
-.products-and-services a {
-  overflow: hidden;
-}
+.products-and-services a { overflow: hidden; }
 
 .product-img {
   position: relative;
@@ -149,13 +145,9 @@ body {
   color: rgb(0, 136, 204);
 }
 
-.contact-and-policy a:hover {
-  text-decoration: underline;
-}
+.contact-and-policy a:hover { text-decoration: underline; }
 
-#shop-online {
-  float: left;
-}
+#shop-online { float: left; }
 
 #more-links {
   float: right;
@@ -168,8 +160,6 @@ body {
   vertical-align: middle;
 }
 
-#terms-of-use {
-  clear: both;
-}
+#terms-of-use { clear: both; }
 
 /* FOOTER */
