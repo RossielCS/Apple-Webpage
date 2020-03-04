@@ -12,7 +12,6 @@ frameworks,
 technologies used
 
 Live Demo
-https://rawcdn.githack.com/RossielCS/Apple-Webpage/85ef56086ae3b741d2710323792d5039c8ef54b6/index.html
 
 Getting Started
 This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
