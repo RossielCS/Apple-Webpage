@@ -7,6 +7,10 @@ body {
   max-height: 1200px;
 }
 
+h2 {
+  display: none;
+}
+
 /* NAVBAR */
 .navbar {
   position: absolute;
