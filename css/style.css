@@ -2,18 +2,20 @@
 *:before,
 *:after { box-sizing: border-box; }
 
+
+
 body {
   min-width: 1240px;
-  height: 100%;
-  max-height: 1472px;
-  min-height: 830px;
+  max-height: 1200px;
+  /*max-height: 1472px;
+  min-height: 830px;*/
 }
 
 /* NAVBAR */
 .navbar {
   position: absolute;
   top: 80px;
-  min-width: 790px;
+  min-width: 900px;
   max-height: 34px;
   left: 50%;
   transform: translateX(-50%);
@@ -37,6 +39,27 @@ body {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+.navbar input[type=text] {
+  width: 100px;
+  height: 23px;
+  margin: 6px 10px;
+  border: none;
+  border-radius: 12.5px;
+  background-image: linear-gradient(#747474, #5e5e5e 50%, #6c6c6c 50%, #8f8f8f);
+}
+
+.search-container {
+  height: 34px;
+  width: 120px;
+}
+
+.search-container i {
+  position: absolute;
+  top: 25%;
+  left: 705px;
+  font-size: 18px;
+}
+
 .nav-links {
   display: block;
   padding: 8px 26px;
@@ -52,10 +75,6 @@ body {
 
 #logo {
   padding: 3px 27px;
-}
-
-.nav-links img {
-  overflow: hidden;
 }
 
 /* NAVBAR */
@@ -112,7 +131,6 @@ body {
   position: relative;
   min-width: 980px;
   max-width: 1010px;
-  /*width: 100%;*/
   height: 90px;
   margin-top: 32px;
 }
