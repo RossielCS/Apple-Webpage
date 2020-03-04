@@ -6,7 +6,7 @@ The purpose of this project is to apply the learned topics about CSS3 basics, bo
 
 Screenshot
 
-
+![image](https://user-images.githubusercontent.com/60085697/75927162-99d9cc80-5e4a-11ea-8d0b-607fb101df0d.png)
 
 
 Additional description about the project and its features.
