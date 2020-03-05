@@ -16,8 +16,16 @@ h2 {
   position: absolute;
   top: 80px;
   max-height: 34px;
-  left: 27%;
+  left: 50%;
+  transform: translateX(-50%);
   display: flex;
+}
+
+@media only screen and (max-width: 1240px) {
+  .navbar {
+    position: absolute;
+    left: 620px;
+  }
 }
 
 .navbar ul {
@@ -121,17 +129,24 @@ h2 {
 
 .products-and-services {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(256px, 360px));
+  grid-template-rows: 200px;
   grid-gap: 2px;
 }
 
-.products-and-services a { overflow: hidden; }
-
-.product-img {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
+.products-and-services div {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
+
+#product-img1 { background-image: url(../images/product01.jpg); }
+
+#product-img2 { background-image: url(../images/product02.jpg); }
+
+#product-img3 { background-image: url(../images/product03.jpg); }
+
+#product-img4 { background-image: url(../images/product04.jpg); }
 
 /* ARTICLE */
 
