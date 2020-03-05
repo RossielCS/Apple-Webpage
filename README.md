@@ -1,6 +1,7 @@
 # Apple-Webpage
 
-This repository is about copy the appearance of an old [Apple website](https://web.archive.org/web/20140301004610/http://www.apple.com/).
+This repository is about copy the appearance of an old [Apple website](https://web.archive.org/web/20140301004610/http://www.apple.com/).  
+
 The purpose of this project is to apply the learned topics about CSS3 basics, box model, floats, positioning, flexbox, grid, backgrounds and, gradients.
   
   
