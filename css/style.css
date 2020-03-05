@@ -54,7 +54,6 @@ h2 {
 .search-container {
   height: 34px;
   width: 120px;
-  /*transition: width 0.5s ease;*/
 }
 
 .search-container input[type=text] {
@@ -65,7 +64,6 @@ h2 {
   border-radius: 12px;
   box-shadow: inset 0 2px 1px 0 rgba(0, 0, 0, 0.6);
   background-image: linear-gradient(rgba(116, 116, 116, 0.95), rgba(94, 94, 94, 0.95) 50%, rgba(108, 108, 108, 0.95) 50%, rgba(143, 143, 143, 0.85));
-  /*transition: width 0.5s ease-in-out;*/
 }
 
 .search-container input[type="text"]:focus {
