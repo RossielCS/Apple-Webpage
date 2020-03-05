@@ -6,7 +6,7 @@ The purpose of this project is to apply the learned topics about CSS3 basics, bo
 
 Screenshot
 
-![image](https://user-images.githubusercontent.com/60085697/75927162-99d9cc80-5e4a-11ea-8d0b-607fb101df0d.png)
+![image](https://user-images.githubusercontent.com/60085697/75983165-c5020180-5ec6-11ea-9c96-3032c044d71b.png)
 
 
 Additional description about the project and its features.
@@ -21,7 +21,7 @@ Built With
 
 Live Demo
 
-https://raw.githack.com/RossielCS/Apple-Webpage/apple-index-webpage/index.html
+https://rawcdn.githack.com/RossielCS/Apple-Webpage/487f70f4390b52a65f05ba21941416674b1a6765/index.html
 
 
 Prerequisites
