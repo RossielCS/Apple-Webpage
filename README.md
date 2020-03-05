@@ -19,7 +19,7 @@ The purpose of this project is to apply the learned topics about CSS3 basics, bo
 * GitHub.
 
 ## Live Demo
-### [Live Demo](https://rawcdn.githack.com/RossielCS/Apple-Webpage/487f70f4390b52a65f05ba21941416674b1a6765/index.html)
+[Live Demo](https://rawcdn.githack.com/RossielCS/Apple-Webpage/487f70f4390b52a65f05ba21941416674b1a6765/index.html)
 
   
  ## Getting Started

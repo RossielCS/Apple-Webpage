@@ -124,6 +124,18 @@ h2 {
   text-align: center;
 }
 
+#subtitle02 {
+  height: 33px;
+  width: 100%;
+  background-image: url("../images/subtitle02-nounderline.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#subtitle02:hover {
+  background-image: url("../images/subtitle02-underline.png");
+}
+
 .titles-box { margin-top: 225px; }
 
 .products-and-services {
