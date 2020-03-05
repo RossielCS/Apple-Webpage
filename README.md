@@ -1,11 +1,7 @@
 # Apple-Webpage
 
 This repository is about copy the appearance of an old [Apple website](https://web.archive.org/web/20140301004610/http://www.apple.com/).
-
-  
-
 The purpose of this project is to apply the learned topics about CSS3 basics, box model, floats, positioning, flexbox, grid, backgrounds and, gradients.
-
   
   
 
@@ -15,39 +11,40 @@ The purpose of this project is to apply the learned topics about CSS3 basics, bo
 
 ![image](https://user-images.githubusercontent.com/60085697/75983165-c5020180-5ec6-11ea-9c96-3032c044d71b.png)
 
-### Built With
-HTML,
-CSS,
-Git,
-GitHub,
-Visual Studio Code.
- 
+## Built With
+* Visual Studio Code,
+* HTML,
+* CSS,
+* Git,
+* GitHub.
+
+## Live Demo
 ### [Live Demo](https://rawcdn.githack.com/RossielCS/Apple-Webpage/487f70f4390b52a65f05ba21941416674b1a6765/index.html)
 
   
-  
+ ## Getting Started
+ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Before you continue, make you that you have installed:
-* An Integrated Development Environment
-* Chrome or Firefox. Internet Explorer is not supported.
+Before you continue, be sure that you have installed:
+* A Git GUI.
+* An Integrated Development Environment.
+* Chrome, Firefox or Opera. Internet Explorer is not supported. 
 
   
   
 
-### Author
+## Author 👤
 
-Github:
-[@RossielCS](https://github.com/RossielCS)
+* Github: [@RossielCS](https://github.com/RossielCS)
 
-Linkedin:
-[Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza-1666b11a1/)
+* Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza-1666b11a1/)
 
   
   
 
-### Contributing 🤝 
+## Contributing 🤝 
 
 Contributions, issues and feature requests are welcome!
 If you want to contribute to HTML-Form, follow these steps:
@@ -72,19 +69,19 @@ Feel free to check the issues page.
   
   
 
-### Show your support
+## Show your support
 Give a ⭐️ if you like this project!
 
   
   
 
-### Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+## Acknowledgments
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
 
   
   
 
-### License 📝
-This project is MIT licensed.
+## License 📝
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/lic.url) licensed.
