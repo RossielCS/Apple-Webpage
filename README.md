@@ -19,9 +19,7 @@ Built With
     Visual Studio Code.
 
 
-Live Demo
-
-https://rawcdn.githack.com/RossielCS/Apple-Webpage/487f70f4390b52a65f05ba21941416674b1a6765/index.html
+[Live Demo](https://rawcdn.githack.com/RossielCS/Apple-Webpage/487f70f4390b52a65f05ba21941416674b1a6765/index.html)
 
 
 Prerequisites
@@ -34,8 +32,8 @@ Before you continue, make you that you have installed:
 
 Author
 
-    Github: @RossielCS
-    Linkedin: https://www.linkedin.com/in/rossiel-carranza-1666b11a1/
+    Github: [@RossielCS](https://github.com/RossielCS)
+    Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza-1666b11a1/)
 
 
 🤝 Contributing
