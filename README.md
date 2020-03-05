@@ -31,9 +31,10 @@ Before you continue, make you that you have installed:
 
 
 Author
-
-    Github: [@RossielCS](https://github.com/RossielCS)
-    Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza-1666b11a1/)
+    Github: 
+    [@RossielCS](https://github.com/RossielCS)
+    Linkedin: 
+    [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza-1666b11a1/)
 
 
 🤝 Contributing
