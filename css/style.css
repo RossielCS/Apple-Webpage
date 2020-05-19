@@ -69,13 +69,13 @@ h2 {
 .search-container input[type="text"]:focus {
   background: rgb(255, 255, 255);
   color: #5a5a5a;
-  padding-left: 25px;
+  padding-left: 30px;
   outline: none;
 }
 
 .search-container i {
   position: absolute;
-  top: 31%;
+  top: 28%;
   left: 752px;
   font-size: 17px;
   color: white;
